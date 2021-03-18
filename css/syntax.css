@@ -1,15 +1,5 @@
 #banner{
-    background-color: #606060;
     width: 100%;
     height: 300px;
-    background-image: url(https://www.flaticon.com/svg/vstatic/svg/4149/4149627.svg?token=exp=1616066727~hmac=ecea32d4c5be13f766aab18d02a34d54),
-    url(https://images.freeimages.com/images/large-previews/1f8/delicate-arch-1-1391746.jpg);
-    background-repeat: no-repeat;
-    background-position: center, top left;
-    background-size: 200px, 100%;
+    background-color: rgb(250, 150, 60);
 }
-
-/*
-https://www.flaticon.com/svg/vstatic/svg/4149/4149627.svg?token=exp=1616066727~hmac=ecea32d4c5be13f766aab18d02a34d54
-https://images.freeimages.com/images/large-previews/1f8/delicate-arch-1-1391746.jpg
-*/
